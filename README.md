@@ -1,1 +1,3 @@
-# Arduino_MIDIController[ブレッドボード 配線図.pdf](https://github.com/paraixo/Arduino_MIDIController/files/8985215/default.pdf)
+# Arduino_MIDIController
+
+![ブレッドボード　配線図](https://user-images.githubusercontent.com/54021058/175782780-ad498422-d053-44fe-89ec-7eb1a6b33d03.png)
